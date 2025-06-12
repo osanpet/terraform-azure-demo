@@ -6,7 +6,7 @@ on:
       - '**.tf'
   pull_request:
     paths:
-      - '**.tf'
+      - '**.tf't
 
 jobs:
   terraform:
